@@ -1,4 +1,4 @@
-# Practices Media queries and Bootstrap
+# Practices Media queries and Bootstrap 😉😜
 _This is a practice of Media queries_
 
 
